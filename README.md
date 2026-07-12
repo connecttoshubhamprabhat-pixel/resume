@@ -43,6 +43,7 @@ HTML, CSS, and vanilla JavaScript. Google Fonts are used optionally for typograp
 
 - Email: [connecttoshubhamprabhat@gmail.com](mailto:connecttoshubhamprabhat@gmail.com)
 - GitHub: [connecttoshubhamprabhat-pixel](https://github.com/connecttoshubhamprabhat-pixel)
+- My-Resume: [[https://shubhamprabhat-erpnextdev.netlify](https://shubhamprabhat-erpnextdev.netlify.app/)]
 
 ## License
 

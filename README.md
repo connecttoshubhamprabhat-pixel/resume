@@ -133,6 +133,7 @@ Tools
 🤝 Let's Connect
 
 💼 GitHub: https://github.com/connecttoshubhamprabhat-pixel
+   Resume: https://shubhamprabhat-erpnextdev.netlify.app
 
 💬 Always interested in collaborating on ERPNext, Frappe Framework, and open-source projects.
 

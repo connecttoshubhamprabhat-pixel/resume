@@ -1,138 +1,205 @@
-👋 Hi, I'm Shubham Prabhat
+<div align="center">
 
-<div align="center">ERPNext Developer • Frappe Developer • Python Developer
+# 👋 Hi, I'm Shubham Prabhat
 
-Building scalable ERP solutions, business automation, and custom applications with the Frappe Framework.
+### ERPNext Developer • Frappe Developer • Python Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=ERPNext+Developer;Frappe+Developer;Python+Backend+Developer;Business+Automation+Expert;Open+Source+Contributor" /></div>---
+<p>
+Building scalable ERP solutions, business automation, and custom ERP applications using the <b>Frappe Framework</b>.
+</p>
 
-🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=700&lines=ERPNext+Developer;Frappe+Framework+Expert;Python+Backend+Developer;Business+Automation;Open+Source+Contributor" alt="Typing SVG" />
 
-I specialize in developing and customizing ERPNext applications using the Frappe Framework. My work focuses on creating reliable, maintainable, and scalable ERP solutions that simplify business processes and improve operational efficiency.
+<br>
 
-💼 What I Do
+<img src="https://komarev.com/ghpvc/?username=connecttoshubhamprabhat-pixel&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-- ⚙️ ERPNext Customization
-- 🧩 Custom Frappe Apps Development
-- 📊 Query Reports & Script Reports
-- 🔄 Workflow Automation
-- 🖥️ Client Scripts & Server Scripts
-- 🐍 Python Backend Development
-- 🗄️ MariaDB & SQL Optimization
-- 🌐 REST API Integration
-- 📦 Bench & Production Deployment
-- 🚀 Performance Optimization
+<a href="https://github.com/connecttoshubhamprabhat-pixel">
+<img src="https://img.shields.io/github/followers/connecttoshubhamprabhat-pixel?label=Followers&style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-🛠 Tech Stack
+# 🚀 About Me
 
-ERP
+I'm an ERPNext & Frappe Framework Developer passionate about building scalable ERP solutions that automate business operations.
 
-"ERPNext" (https://img.shields.io/badge/ERPNext-0175C2?style=for-the-badge&logo=erpnext&logoColor=white)
+I enjoy solving real-world business problems through custom ERPNext development, workflow automation, API integrations, and performance optimization.
 
-Framework
+- 🔭 Working on ERPNext Customizations
+- 🌱 Learning Docker, Kubernetes & Cloud Deployments
+- ⚡ Love Python Automation
+- 💬 Ask me about ERPNext, Frappe, Python & MariaDB
+- 🎯 Goal: Build world-class ERP solutions
 
-"Frappe" (https://img.shields.io/badge/Frappe_Framework-2496ED?style=for-the-badge)
+---
 
-Languages
+# 🛠 Tech Stack
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## ERP
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/ERPNext-0175C2?style=for-the-badge&logo=erpnext&logoColor=white"/>
 
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Frappe_Framework-2496ED?style=for-the-badge"/>
 
-Database
+</p>
 
-"MariaDB" (https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+---
 
-Tools
+## Languages
 
-- Bench CLI
-- Git
-- GitHub
-- Linux
-- Ubuntu
-- VS Code
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,vscode,postman" />
+
+</p>
+
+---
+
+# 💼 What I Do
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### ⚙ ERPNext
+
+- ERPNext Customization
+- Manufacturing
+- Buying
+- Selling
+- HRMS
+- Asset Management
+
+</td>
+
+<td width="50%">
+
+### 🧩 Frappe
+
+- Custom Apps
+- Custom DocTypes
+- Client Scripts
+- Server Scripts
+- Workflow Automation
+- Print Formats
+- Query Reports
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🐍 Python
+
+- Backend Development
 - REST APIs
+- Hooks
+- Scheduler Jobs
+- Integrations
+- Automation Scripts
 
----
+</td>
 
-💡 Expertise
+<td>
 
-✔ ERPNext Module Development
+### 🗄 Database
 
-✔ Custom DocTypes
-
-✔ Client Scripts
-
-✔ Server Scripts
-
-✔ Python Hooks
-
-✔ Workflow Automation
-
-✔ Custom Reports
-
-✔ Print Formats
-
-✔ API Integration
-
-✔ Payroll Customization
-
-✔ Manufacturing
-
-✔ Inventory
-
-✔ Buying
-
-✔ Selling
-
-✔ HRMS
-
-✔ Projects
-
-✔ Asset Management
-
-✔ Deployment & Migration
-
----
-
-📈 Current Focus
-
-🚀 Advanced ERPNext Development
-
-⚙️ Business Process Automation
-
-📦 Production Deployments
-
-🔄 CI/CD for Frappe Applications
-
-☁️ Cloud Hosting
-
-📊 High Performance ERP Solutions
-
----
-
-🌱 Always Learning
-
-- Advanced Python
-- System Architecture
-- Scalable ERP Design
-- DevOps
-- Docker
-- Kubernetes
-- Redis
+- MariaDB
+- SQL Optimization
 - Performance Tuning
+- Query Optimization
+- Indexing
+- Database Migration
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
+# ⭐ Core Expertise
+
+| ERPNext | Frappe | Backend |
+|---------|---------|---------|
+| Manufacturing | Custom Apps | Python |
+| Buying | Client Scripts | REST APIs |
+| Selling | Server Scripts | SQL |
+| HRMS | Hooks | MariaDB |
+| Payroll | Workflow | Integrations |
+| Inventory | Reports | Automation |
+
+---
+
+# 🌱 Currently Learning
+
+<table>
+
+<tr>
+
+<td>🐳 Docker</td>
+
+<td>☸ Kubernetes</td>
+
+<td>☁ Cloud Hosting</td>
+
+<td>⚡ DevOps</td>
+
+</tr>
+
+<tr>
+
+<td>Redis</td>
+
+<td>CI/CD</td>
+
+<td>System Design</td>
+
+<td>Performance Tuning</td>
+
+</tr>
+
+</table>
+
+
+<div>
 🤝 Let's Connect
 
 💼 GitHub: https://github.com/connecttoshubhamprabhat-pixel
+</br>
    Resume: https://shubhamprabhat-erpnextdev.netlify.app
 
 💬 Always interested in collaborating on ERPNext, Frappe Framework, and open-source projects.
@@ -144,3 +211,4 @@ Tools
 "Code. Automate. Innovate."
 
 </div>
+---

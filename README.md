@@ -1,10 +1,10 @@
 👋 Hi, I'm Shubham Prabhat
 
-<div align="center">ERPNext Developer • Frappe Framework Developer • Python Developer
+<div align="center">ERPNext Developer • Frappe Developer • Python Developer
 
 Building scalable ERP solutions, business automation, and custom applications with the Frappe Framework.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=ERPNext+Developer;Frappe+Framework+Developer;Python+Backend+Developer;Business+Automation+Expert;Open+Source+Contributor" /></div>---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=ERPNext+Developer;Frappe+Developer;Python+Backend+Developer;Business+Automation+Expert;Open+Source+Contributor" /></div>---
 
 🚀 About Me
 

@@ -38,7 +38,7 @@ I enjoy solving real-world business problems through custom ERPNext development,
 
 # 🛠 Tech Stack
 
-## ERP
+## ERPNext
 
 <p>
 
@@ -96,7 +96,7 @@ I enjoy solving real-world business problems through custom ERPNext development,
 - Manufacturing
 - Buying
 - Selling
-- HRMS
+- CRM
 - Asset Management
 
 </td>
